@@ -1,0 +1,20 @@
+nav.navbar-newsclient {
+  background-color: darkblue;
+  border-radius: 0;
+}
+
+span.icon-bar {
+  background: #fff;
+}
+
+a.navbar-brand {
+  color: #fff;
+}
+
+ul.navbar-right li a {
+  color: #fff;
+}
+
+ul.navbar-right li a:hover {
+  background: transparent;
+}
